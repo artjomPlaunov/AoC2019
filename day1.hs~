@@ -1,0 +1,3 @@
+main = do
+  let l = readFile "day1.txt"
+  l
